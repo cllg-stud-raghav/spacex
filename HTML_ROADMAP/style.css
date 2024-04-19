@@ -1,0 +1,58 @@
+*{
+    color: #0625a3;
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+#hero{
+    background-image: url("ezgif.com-gif-to-webp-converter.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 0 190px 0;
+}
+.main-heading{
+    text-align: center;
+    font-size: xx-large;
+    font-family: "Orbitron", sans-serif;
+    text-shadow: 5px 3px 5px black;
+}
+.click{
+    color: #0625a3;
+    font-weight: bold;
+    font-size: 20px;
+    /* width: 60px;
+    height: 40px; */
+    padding: 10px 16px;
+    background-color: rgba(211, 211, 211, 0.702);
+    border: none;
+    font-family: "Orbitron", sans-serif;
+}
+.ele-underline{
+    border-bottom: 5px solid rgba(255, 255, 255, 0.616);
+}
+h1{
+    margin-bottom: 10px;
+}
+#logo-head{
+    width: 300px;
+}
+h3{
+    font-family: "Orbitron", sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+.terms{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0625a3;
+    height: 100px;
+    position: absolute;
+    bottom:0;
+    background-color: rgba(255, 255, 255, 0.616) ;
+    width: 100%;
+    text-align: center;
+
+}

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Safferty  ;
+    src: url("Safferty Italic DEMO VERSION.otf");
+}
+h1{
+    font-family: Safferty ;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
